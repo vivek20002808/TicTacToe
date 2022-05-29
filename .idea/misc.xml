@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/JUET Guna/CSE 4th sem/MAD/201b310_tic_tak_toe/app/src/main/res/layout/activity_main.xml" value="0.15507692762747333" />
+        <entry key="..\:/Users/ratnesh.tiwari/201b310_tic_tak_toe/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/vivek/AndroidStudioProjects/201b311-Tic-Tac-Toe/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/vivek/AndroidStudioProjects/Tic-tac-toe-main/app/src/main/res/layout/activity_main.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
